@@ -1,0 +1,1 @@
+Vehicle color and Number Plate information is one of the important elements in ITS (Intelligent Traffic System). We present a vehicle License Plate recognition using segmentation. We used prominent techniques for detection, segmentation and character recognition.
